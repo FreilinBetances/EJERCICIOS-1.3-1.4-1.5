@@ -36,7 +36,7 @@ Para ejecutar el proyecto localmente, sigue estos pasos:
 1. Clona este repositorio:
 
    ```bash
-   git clone https://github.com/tu-usuario/curso-informacion-react.git
+   git clone https://github.com/FreilinBetances/EJERCICIOS-1.3-1.4-1.5
    cd curso-informacion-react
    ```
 
